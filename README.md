@@ -2,8 +2,9 @@
 
 This python app has 2 versions, one that can be used directly in the terminal with user input, and another that utilizes the custom tkinter package to create a new window application.
 
-Files for terminal game: terminal_typing_speed.py , typing_leaderboard.json
-Files for custom tkinter package game: typing_app.py , typing_speed.py , typing_leaderboard.json
+**Files for terminal game**: terminal_typing_speed.py , typing_leaderboard.json
+
+**Files for custom tkinter package game**: typing_app.py , typing_speed.py , typing_leaderboard.json
 
 It is a fun game to test your typing speed and accuracy, with a hidden secret level that can only be unlocked by beating the toughest rounds at the best possible score. 
 
